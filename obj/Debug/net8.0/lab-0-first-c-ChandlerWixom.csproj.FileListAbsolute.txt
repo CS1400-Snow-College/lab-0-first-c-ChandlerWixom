@@ -1,0 +1,15 @@
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\bin\Debug\net8.0\lab-0-first-c-ChandlerWixom.exe
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\bin\Debug\net8.0\lab-0-first-c-ChandlerWixom.deps.json
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\bin\Debug\net8.0\lab-0-first-c-ChandlerWixom.runtimeconfig.json
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\bin\Debug\net8.0\lab-0-first-c-ChandlerWixom.dll
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\bin\Debug\net8.0\lab-0-first-c-ChandlerWixom.pdb
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.AssemblyInfoInputs.cache
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.AssemblyInfo.cs
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.csproj.CoreCompileInputs.cache
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.sourcelink.json
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.dll
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\refint\lab-0-first-c-ChandlerWixom.dll
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.pdb
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\lab-0-first-c-ChandlerWixom.genruntimeconfig.cache
+C:\Users\Frost\my-code-dir\lab-0-first-c-ChandlerWixom\obj\Debug\net8.0\ref\lab-0-first-c-ChandlerWixom.dll
